@@ -1,3 +1,2 @@
 # KNN
 KNN Algorithm
-## KNN
